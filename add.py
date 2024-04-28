@@ -1,5 +1,5 @@
 a=5
 b=5
-c=6
+c=9
 print(a+b)
 print(c+b)
